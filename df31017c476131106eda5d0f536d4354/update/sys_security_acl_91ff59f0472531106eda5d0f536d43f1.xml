@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <condition/>
+        <description>Default access control on x_301515_iplookup_ipaddressinfo</description>
+        <local_or_existing>Local</local_or_existing>
+        <name>x_301515_iplookup_ipaddressinfo</name>
+        <operation display_value="create">create</operation>
+        <script/>
+        <security_attribute/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-09-25 12:45:24</sys_created_on>
+        <sys_id>91ff59f0472531106eda5d0f536d43f1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_301515_iplookup_ipaddressinfo</sys_name>
+        <sys_package display_value="IPLookup" source="x_301515_iplookup">df31017c476131106eda5d0f536d4354</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IPLookup">df31017c476131106eda5d0f536d4354</sys_scope>
+        <sys_update_name>sys_security_acl_91ff59f0472531106eda5d0f536d43f1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-09-25 12:45:24</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+</record_update>
